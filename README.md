@@ -2,7 +2,7 @@
 
 ---
 
-### First intall the requirements
+### First install the requirements
 
 # then,
 
